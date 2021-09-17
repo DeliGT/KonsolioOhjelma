@@ -1,0 +1,16 @@
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.exe
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.deps.json
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.runtimeconfig.json
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.runtimeconfig.dev.json
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.dll
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\ref\KonsolioOhjelma.dll
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\bin\Debug\net5.0\KonsolioOhjelma.pdb
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.csproj.AssemblyReference.cache
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.AssemblyInfoInputs.cache
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.AssemblyInfo.cs
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.csproj.CoreCompileInputs.cache
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.dll
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\ref\KonsolioOhjelma.dll
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.pdb
+C:\Users\Kalle Deligeorgakis\source\repos\githarjoitus\KonsolioOhjelma\obj\Debug\net5.0\KonsolioOhjelma.genruntimeconfig.cache
